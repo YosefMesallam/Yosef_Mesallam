@@ -1,17 +1,20 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+
+<h2>Hi Coders 👋, I'm <b>Yosef Mesallam</b></h2>
+<h4>C++ Developer | Computer Science Student</h4>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to 🎧 </summary> </strong></p>
+<p><strong><summary> Busy coding & Vibing to 🎧 </summary></strong></p>
 
 Coding… Debugging… Repeat 🔁  
 
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yosef_Mesallam&style=flat&color=orange&label=PROFILE+VIEWS)
-
 [![GitHub](https://img.shields.io/badge/Yosef_Mesallam-grey?style=flat&logo=github)](https://github.com/Yosef_Mesallam)
 
 </div>
@@ -44,8 +47,5 @@ int main() {
         "Linux Basics"
     };
 
-    cout << "Hi, I'm Yosef Mesallam 👋\n";
-    cout << "C++ Developer | Computer Science Student\n";
-
-    return 0;
-}
+    cout << "Hi, I'm Yosef Mesallam 👋" << endl;
+    cout << "C++ Develo
